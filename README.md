@@ -12,6 +12,7 @@ Create a Pull request and add any feature update to the repository.
 
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
   
+## READ ABOUT THE PROJECT IN [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine.
