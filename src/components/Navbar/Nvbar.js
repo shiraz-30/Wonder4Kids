@@ -7,7 +7,7 @@ import {Nav} from "react-bootstrap"
 function Nvbar() {
     return (
 
-        <Navbar bg="dark" expand="lg">
+        <Navbar bg="Dark" expand="lg">
             <Container>
                 <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
