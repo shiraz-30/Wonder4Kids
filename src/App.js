@@ -11,8 +11,9 @@ import Footer from "./components/Footer/Footer.jsx";
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <h1> Working </h1>
-      <Nvbar/>
+//       <h1> Working </h1>
+//       <Nvbar/>
+      <Login/>
       <Footer />
     </ChakraProvider>
   )
