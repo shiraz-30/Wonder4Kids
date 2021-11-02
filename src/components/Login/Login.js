@@ -1,9 +1,10 @@
 import React from "react"
+import Inp from "./Inp.js"
 
 function Login(){
-    const flexContainer={
-    display:"flex"
-    }
+	const flexContainer={
+	display:"flex"
+	}
 
     const blue = {
         backgroundColor: "Blue",
@@ -34,20 +35,11 @@ function Login(){
         height: "50vh",
     }
     
-    const darkBlue={
-        position : "Absolute",
-    top:"15%",
-    left:"25%",
-        padding: "0.5rem",
-        backgroundColor: "#1A2146",
-        // display: "flex",
-        width: "50%",
-        height: "70%"
-    }
+
 
     return(
     <>
-        <div style={darkBlue}></div>
+    	 <Inp/>
         <div className ="flexContainer" style = {flexContainer}>
             <div  style={blue}></div>
             <div  style={green}></div>        
