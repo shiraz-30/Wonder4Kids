@@ -19,9 +19,11 @@ export default function Inp() {
     <Form.Control type="password" placeholder="Password" />
   </Form.Group>
  
+  <div className = "submit-btn">
   <Button variant="primary" type="submit">
     Submit
   </Button>
+  </div>
 </Form>
     )
 }
