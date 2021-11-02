@@ -24,7 +24,6 @@
   "scripts": {
     "build": "CI=false && react-scripts build",
     "start": "react-scripts start",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -45,5 +44,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "<h1> Wonder 4 Kids ! </h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PEC-Programmers-Arena/Wonder4Kids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PEC-Programmers-Arena/Wonder4Kids/issues"
   }
 }
