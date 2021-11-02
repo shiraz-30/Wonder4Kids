@@ -22,6 +22,7 @@
     "yup": "^0.32.11"
   },
   "scripts": {
+    "build": "CI=false && react-scripts build",
     "start": "react-scripts start",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
