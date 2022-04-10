@@ -1,0 +1,28 @@
+.footer-fieldset {
+	border-radius: 25px;
+	width: auto;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	border: none;
+	/* margin-bottom: 20px !important; */
+}
+
+.invalid-feedback {
+	font-size: 9px;
+	color: #fc8181;
+	margin-bottom: -12px !important;
+}
+
+.required {
+	/* margin-top: -25px !important; */
+	font-size: 9px;
+	color: #fc8181;
+}
+
+@media screen and (max-width: 479px) {
+	p.copyright {
+		position: absolute;
+		bottom: 5px;
+	}
+}
